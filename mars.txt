@@ -1,3 +1,4 @@
 Mars is a cold planet. I like it.
 Mars is a big planet. The size is XX.  
 I do not know much about other planets. 
+How far is away from Mars to the earth?
