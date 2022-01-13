@@ -1,1 +1,2 @@
-Mars is a cold planet. I like it.  
+Mars is a cold planet. I like it.
+Mars is a big planet. The size is XX.  
